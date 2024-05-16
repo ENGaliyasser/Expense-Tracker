@@ -9,7 +9,7 @@ Expense-Tracker is a web application designed to help users track their income a
 **Transaction Management:** View, edit, and delete transactions as needed.<br />
 **Reports Generation:** Generate detailed reports based on different parameters such as time period, category, or type of expense (income, expenses, savings).<br />
 **Responsive Design:** Optimized for use on desktops, tablets, and smartphones.<br />
-##Technology Stack
+## Technology Stack
 **Frontend:** React<br />
 **Backend:** Node.js, Express.js<br />
 **Database:** MongoDB<br />
